@@ -6,7 +6,6 @@
   []
   (BCrypt/gensalt))
 
-
 (defn crypt-password
   "crypt password with some salt"
   [password]
