@@ -2,6 +2,12 @@
 
 a lightweight clojure wrapper for bcrypt that can crypt password or something like that
 
+## Installation
+
+Last stable version is available on [Clojars](https://clojars.org/bcrypt-clj).
+
+[![Clojars Project](http://clojars.org/bcrypt-clj/latest-version.svg)](http://clojars.org/bcrypt-clj)
+
 ## Usage
 
 * crypt password
