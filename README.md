@@ -6,13 +6,13 @@ a lightweight clojure wrapper for bcrypt that can crypt password or something li
 
 * crypt password
 
-```
+```clj
 (crypt-password "password")
 ```
 
 * checkout validation of password
 
-```
+```clj
 (check-password "rawpassword" "cryptedpassword")
 ```
 
